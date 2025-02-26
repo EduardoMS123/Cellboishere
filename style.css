@@ -5,9 +5,68 @@ body {
 
 main {
     color: white;
+    display: flex;
+    padding: 0px 400px 0px 300px;
+
 }
 
 *{
     margin: 0;
     padding: 0;
 }
+
+header, footer{
+    height: 150px;
+    
+}
+
+strong{
+    color: blueviolet;
+
+}
+
+p{
+    margin: 20px 0 30px 0;
+    font-size: 20px;
+    font-family: "Special Elite", serif;
+}
+
+h1{
+ font-size: 30px;
+
+}
+
+img{
+    width: 35%;
+    height: 35%;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 20px 20px 0 0;
+
+}
+
+.botao1{
+    background-color: red;
+}
+
+.botao2{
+    background-color: blueviolet;
+}
+
+a {
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
